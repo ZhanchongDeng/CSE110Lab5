@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ece0e6c5-83b2-42e5-8775-53e7fcab5f4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bCtUVlLfVoOgbYS0FWdT9qyVO6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.ucsd.cs110.tests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FahrenheitTest">
+    <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.temperature.TemperatureConverter" />
+      <module name="Project110" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.temperature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CelsiusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project110" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.CelsiusTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FahrenheitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project110" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.FahrenheitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FahrenheitTest" />
+        <item itemvalue="JUnit.CelsiusTest" />
+        <item itemvalue="Application.TemperatureConverter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ece0e6c5-83b2-42e5-8775-53e7fcab5f4e" name="Default Changelist" comment="" />
+      <created>1588147918982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588147918982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="115" key="#HTTP_Proxy" timestamp="1588149208224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="115" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1588149208224" />
+    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1588148170451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588148170451" />
+    <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1588149202528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="201" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588149202528" />
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom" timestamp="1588150034706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588150034706" />
+    <state width="1867" height="269" key="GridCell.Tab.0.center" timestamp="1588150034705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588150034705" />
+    <state width="1867" height="269" key="GridCell.Tab.0.left" timestamp="1588150034705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588150034705" />
+    <state width="1867" height="269" key="GridCell.Tab.0.right" timestamp="1588150034705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588150034705" />
+    <state width="1867" height="333" key="GridCell.Tab.1.bottom" timestamp="1588148683260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588148683260" />
+    <state width="1867" height="333" key="GridCell.Tab.1.center" timestamp="1588148683260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588148683260" />
+    <state width="1867" height="333" key="GridCell.Tab.1.left" timestamp="1588148683260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588148683260" />
+    <state width="1867" height="333" key="GridCell.Tab.1.right" timestamp="1588148683260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588148683260" />
+    <state x="733" y="285" key="chooseDestDirectoryDialog" timestamp="1588149472429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="285" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588149472429" />
+    <state x="582" y="393" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588149426809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="393" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1588149426809" />
+    <state x="692" y="151" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588149485209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="151" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588149485209" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
